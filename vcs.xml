@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Gilbertg6790/CS245AndroidProject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/coboba123/CS245AndroidProject" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Cody\AndroidStudioProjects" />
